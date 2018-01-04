@@ -1,2 +1,2 @@
-# Maringá, 2 de janeiro de 2018.
-# Notas de aula.
+# Maringá, 04 de janeiro de 2018.
+# Aula 01 disponível para download.
